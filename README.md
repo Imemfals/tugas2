@@ -15,4 +15,5 @@ Struktur Indonesia
  10. Cetak “Bilangan Terbesar Bilangan Ketiga”.
  11. Selesai
 
-		![GitHub Logo](1.jpg)
+		![GitHub Logo](1.png)
+		![GitHub Logo](2.png)
